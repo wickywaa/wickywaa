@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, computer vision, raspberry pi, webRTC , APIs, 
 - 💞️ I’m looking to collaborate on anything to do with robotics, drones, webrtc and raspberry PI
 
-I'm pretty good with React and node.js but I am still picking up python , I learned it a few years ago aon a codeacademy course so now I have to use it in practise, 
+I'm pretty good with React and node.js but I am still picking up python , I learned it a few years ago on a codeacademy course so now I have to use it in practise, 
 If you have some skills with computer vision and machine learnign  I can help out with the frontend!
 
 
