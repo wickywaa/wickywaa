@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wickywaa
-- 👀 I’m interested in building cool robots and even cooler frontends to interact with them
+- 👀 I’m interested in building  robots and even frontends to interact with them
 - 🌱 I’m currently learning golang,react  raspberry pi, webRTC , APIs, 
 - 💞️ I’m looking to collaborate on anything to do with robotics, drones, webrtc and raspberry PI
 
