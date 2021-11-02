@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything to do with robotics, drones, webrtc and raspberry PI
 
 I'm pretty good with React and node.js but I am still picking up go . 
-If you have some skills with computer vision and machine learnign  I can help out with the frontend!
+If you have some skills with computer vision and machine learning  I can help out with the frontend!
 
 
 - 📫 How to reach me ...
